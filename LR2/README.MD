@@ -1,4 +1,4 @@
-- запустить исходный код LR2 вместе с файлом CDR: data2.csv
+- Р·Р°РїСѓСЃС‚РёС‚СЊ РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ LR2 РІРјРµСЃС‚Рµ СЃ С„Р°Р№Р»РѕРј data2.csv
 
 
-- контакты студента: temachkan@gmail.com, https://t.me/temachkan
+- РєРѕРЅС‚Р°РєС‚С‹ СЃС‚СѓРґРµРЅС‚Р°: temachkan@gmail.com, https://t.me/temachkan
