@@ -1,9 +1,9 @@
-- установить дистрибутив на официальном сайте: https://www.python.org/
+- СѓСЃС‚Р°РЅРѕРІРёС‚СЊ РґРёСЃС‚СЂРёР±СѓС‚РёРІ РЅР° РѕС„РёС†РёР°Р»СЊРЅРѕРј СЃР°Р№С‚Рµ: https://www.python.org/
 
-- установить, запустить среду программирования PyCharm: https://www.jetbrains.com/pycharm/
+- СѓСЃС‚Р°РЅРѕРІРёС‚СЊ, Р·Р°РїСѓСЃС‚РёС‚СЊ СЃСЂРµРґСѓ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ PyCharm: https://www.jetbrains.com/pycharm/
 
-- запустить исходный код UMU_LR3 вместе с файломами data.csv, data2.csv, input.pdf 
+- Р·Р°РїСѓСЃС‚РёС‚СЊ РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ UMU_LR3 РІРјРµСЃС‚Рµ СЃ С„Р°Р№Р»РѕРјР°РјРё data.csv, data2.csv, input.pdf 
 
 
 
-контакты студента: https://vk.com/ternachkan, https://t.me/temachkan
+РєРѕРЅС‚Р°РєС‚С‹ СЃС‚СѓРґРµРЅС‚Р°: temachkan@gmail.com, https://t.me/temachkan
